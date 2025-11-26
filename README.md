@@ -5,9 +5,9 @@
 • Link:[ https://www.kaggle.com/datasets/arunjangir245/healthcare-insurance
 expenses/data ](https://www.kaggle.com/datasets/arunjangir245/healthcare-insurance-expenses/data)
 <br>
-## B) Choose image dataset 
+## B) image dataset 
 2. Logistic regression & kmeans as classifiers on an image dataset (5 classes at maximum).
-<br>
+
 ### Fashion Item Classification: | 
 <br>
 a) Idea: Build a model to classify fashion items, such as clothing and accessories. <br>
